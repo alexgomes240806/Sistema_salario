@@ -1,7 +1,7 @@
 # Sistema_salario
 
 
-![image info](img/image-capa.png)
+![image info](img/capa.png)
 # Calculadora de Salário
 
 Este é um simples aplicativo de calculadora de salário desenvolvido em PHP e HTML para ajudar a calcular o salário de um vendedor com base em suas metas semanais e mensais.
